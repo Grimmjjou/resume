@@ -218,7 +218,7 @@ body {
 
 .photo {
   width: 370px;
-  height: 400px;
+  height: 350px;
   margin-bottom: 50px;
 }
 
@@ -239,7 +239,7 @@ body {
 
 .contact-link:hover {
   background: rgb(78, 30, 150);
-  color: #fff;
+  color: rgb(226, 76, 76);
 }
 
 .sidebar-title {
@@ -265,7 +265,7 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  color: #565e6a;
+  color: #f9fbff;
 }
 
 .tech-skills-list {
